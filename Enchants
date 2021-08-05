@@ -1,0 +1,72 @@
+Angler (Fishing Rod Enchantment): Catch an additional fish per level.
+Armored (Elytra Enchantment): Adds armor points to Elytra.
+Beheading (Sword Enchantment): Adds a chance to drop mob heads on death.
+Blindness (Melee and Ranged Enchantment): Gives the attacked player blindness. (Conflicts with Truant).
+Brine (Sword Enchantment): Doubles damage if opponent is at half health or less.
+Butcher (Sword Enchantment): Earn additional meat from killing mobs (Conflicts with Looting and Husbandry)
+Curse of Contagion (Everything Enchantment): Spreads curses to items. (Conflicts with Curse of Stagnancy)
+Curse of Exhaustion (Everything Enchantment): Causes more exhaustion for Minecraft actions.
+Curse of Instability (Everything Enchantment): Decays item durability over time.
+Curse of Lag (Tools and Weapons Enchantment): Laggggg.
+Curse of Stagnancy (Everything Enchantment): Enchantments can no longer be added or modified on this item except for removed on the Grindstone (Conflicts with Curse of Contagion)
+Depth++ (Tools Enchantment): Increase forward break radius by 1 per level.
+Detonator (Bow and Crossbow Enchantment): Explosions on arrow impact. Decreases creeper activation time. (Conflicts with Hollow Point).
+Drowned (Trident Enchantment): Drowns non-water mobs for a short time.
+Exp. Share (Tools/Weapons Enchantment): Increased experience drop from killing mobs and breaking blocks (Conflicts with Recycler)
+Flower Gift (Hoe Enchantment): Right click flowers to drop flowers. (Conflicts with Gold Digger and Soul Reaper).
+Force Feed (Everything Enchantment): Equipped items will repair themselves using the hunger bar (Conflicts with Mending and Sticky Hold)
+Frequent Flyer (Elytra Enchantment): Gives player creative flight at cost of durability. (Conflicts with Icarus).
+Fried (Fishing Rod Enchantment): All caught fish are automatically cooked.
+Frosty (Shovel Enchantment): Shoots snowballs out of shovel on left click.
+Gaia (Axe Enchantment): Breaks the blocks of trees over time. Replants saplings.
+Gold Digger (Hoe Enchantment): Drop gold and experience when breaking crops and nether warts. (Conflicts with Flower Gift and Soul Reaper).
+Green Thumb (Hoe Enchantment): Breaking crops will replant them if possible.
+Gung Ho (Chestplate Enchantment): Halves health but triples attack damage. (Conflicts with Life).
+Hard Bounce (Shield Enchantment): Projectiles hitting the shield will bounce away at a faster rate. (Conflicts with Iron Defense).
+Height++ (Tools Enchantment): Increases block break radius in the up/down direction.
+Hollow Point (Bow and Crossbow Enchantment): Deals more damage to armored opponents. Can deal damage to Endermen and shielded Withers. (Conflicts with Detonator).
+Husbandry (Sword Enchantment): Gives chance to spawn a baby animal when killing animals (Conflicts with Looting and Butcher)
+Icarus (Elytra Enchantment): Flying upwards will increase velocity. (Conflicts with Frequent Flyer).
+Irene's Lasso (Carrot on a Stick Enchantment): Grab animals to place elsewhere. (Conflicts with Wand).
+Iron Defense (Shield Enchantment): Shield absorbs percentage of damage when not blocking. (Conflicts with Hard Bounce).
+Joggers (Leggings Enchantment): Gives the player speed. (Conflicts with Plyometrics).
+Knock Up (Swords Enchantment): Knocks opponent into the air on hit. (Conflicts with Knockback).
+Life (Chestplate Enchantment): Increases maximum health when worn. (Conflicts with Gung Ho).
+Life Drain (Melee Enchantment): Steals the health of an attacked mob.
+Light Weight (Boots Enchantment): Prevents trampling crops (Conflicts with Feather Falling)
+Magic Guard (Shield Enchantment): Negative potion effects removed when in offhand.
+Magma Walker (Boots Enchantment): Turns lava into magma for a short time when walking near it. (Conflicts with Depth Strider, Frost Walker, and Void Walker).
+Moisturize (Shears enchantment): Add moisture to blocks, waterlogging or changing certain block types.
+No Rest (Helmet Enchantment): Sleep time constantly reset to 0, causing no phantoms to spawn. (Conflicts with Unrest).
+Overkill (Bow Enchantment): Shoots arrows in inventory from bow on left click.
+Pacified (Melee Enchantment): Decreases damage against your own tamed mobs.
+Pillage (Crossbow Enchantment): Increase drops from killed mobs.
+Plyometrics (Leggings Enchantment): Gives the player jump boost. (Conflicts with Joggers).
+Pushback (Shield Enchantment): When blocking, knocks back melee-using damaging mobs
+Quick Strike (Melee Enchantment): Speeds up charge time. (Conflicts with Sharpness, Smite, Bane of Arthropods, Fire Aspect, and Shock Aspect).
+Recycler (Melee Enchantment): Common loot drops will turn into experience (Conflicts with Exp. Share)
+Sacrifice (Chestplate Enchantment): Damages mob that killed you based on your experience level.
+Sand Veil (Hoe enchantment): Lowers accuracy of attacked entity's hits.
+Shock Aspect (Axes Enchantment): Chance to strike attacked mobs with lightning. (Conflicts with Quick Strike).
+Smeltery (Tools Enchantment): Smelt broken items. (Conflicts with Silk Touch).
+Sniper (Trident/Bow Enchantment): Increased projectile speed.
+Soulbound (Everything Enchantment): Keep item on death. (Conflicts with Curse of Vanishing).
+Soul Reaper (Hoe Enchantment): Has a large chance for killed player to drop Soulbound items. (Conflicts with Flower Gift and Gold Digger).
+Splatter Fest (Hoe Enchantment): Shoots eggs in inventory from hoe on left click.
+Sticky Hold (Everything Enchantment): When the item breaks, it will turn into a stick which can be repaired back into the item (Conflicts with Mending and Force Feed)
+Stone Throw (Crossbow Enchantment): Does more damage to flying mobs.
+Streak (Melee Enchantment): Killing the same mob repeatedly will increase damage against that mob.
+Tank (Armor Enchantment): Increased durability.
+Telepathy (Tools Enchantment): All mined blocks go straight into your inventory.
+Toughness (Armor Enchantment): Adds armor toughness to armor.
+Transmutation (Trident Enchantment): Turns mob loot into sea-based loot.
+Truant (Melee and Ranged Enchantment): Gives the attacked entity slowness. (Conflicts with Blindness).
+Unrest (Helmet Enchantment): Gives night vision but phantoms will always spawn at night around you.
+Venom (Melee and Ranged Enchantment): Gives the attacked player poison. (Conflicts with Withering).
+Void Walker (Boots Enchantment): Spawns obsidian in air blocks to help players cross the void. (Conflicts with Depth Strider, Frost Walker, and Magma Walker).
+Wand (Carrot on a Stick Enchantment): Place blocks from offhand in a radius. (Conflicts with Irene's Lasso).
+Warp (Leggings Enchantment): Gives chance to teleport you away from damage.
+Water Breathing (Helmet Enchantment): Gives the player water breathing. (Conflicts with Aqua Affinity).
+Width++ (Tools Enchantment): Increases block break radius in the left/right direction.
+Withering (Melee and Ranged Enchantment): Gives the attacked player wither damage. (Conflicts with Venom).
+Zeal (Hoe Enchantment): Shoots fireballs out of hoe on left click.
